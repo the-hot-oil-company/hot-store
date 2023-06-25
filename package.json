@@ -1,0 +1,20 @@
+{
+  "name": "@hotoilco/hot-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-hot-oil-company/hot-store.git"
+  },
+  "author": "Drew DeCarme (drew@thehotoilco.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-hot-oil-company/hot-store/issues"
+  },
+  "homepage": "https://github.com/the-hot-oil-company/hot-store#readme",
+  "packageManager": "yarn@3.6.0"
+}
