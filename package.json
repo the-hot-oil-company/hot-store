@@ -16,5 +16,10 @@
     "url": "https://github.com/the-hot-oil-company/hot-store/issues"
   },
   "homepage": "https://github.com/the-hot-oil-company/hot-store#readme",
-  "packageManager": "yarn@3.6.0"
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "eslint": "^8.43.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
+  }
 }
